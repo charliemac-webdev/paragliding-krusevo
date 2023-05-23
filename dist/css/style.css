@@ -133,7 +133,8 @@ body {
   .heading-primary--main {
     font-size: 5rem;
     letter-spacing: 1rem;
-    font-family: 5rem;
+    font-family: inherit;
+    padding: 1rem;
   }
 }
 .heading-primary--sub {
